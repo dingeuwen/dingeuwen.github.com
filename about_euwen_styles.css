@@ -9,22 +9,24 @@
 .box1 {
   width: 380px;
   margin-left: 190px;
-  font-family: 'Sacramento', cursive;
-  font-size: 35px;
+  margin-top: 10px;
+  font-family: 'Poiret One', cursive;
+  font-size: 25px;
 }
 
 .name2 {
-  margin-top: 100px;
+  margin-top: 120px;
   margin-left: 55px;
-  font-family: 'Sacramento', cursive;
-  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Poiret One', cursive;
+  font-size: 35px;
 }
 
 .box2 {
   width: 450px;
   margin-left: 55px;
-  font-family: 'Sacramento', cursive;
-  font-size: 30px;
+  font-family: 'Poiret One', cursive;
+  font-size: 25px;
 }
 
 .box3 {
@@ -32,6 +34,7 @@
   text-align: right;
   margin-left: 850px;
   color: #FFFFFF;
+  font-size: 20px;
 }
 
 body {
